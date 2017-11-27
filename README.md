@@ -1,2 +1,1 @@
-# Capstone_2
-An analysis of Supreme Court Justice Anthony Kennedy's speech and predicting his future votes based on transcripts 
+This repository includes all assignments and projects done for the SpringBoard Data Science Career Track Course
